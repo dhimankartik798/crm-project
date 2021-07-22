@@ -1,0 +1,497 @@
+[12-Aug-2020 12:15:33 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/marsones/public_html/demo/Marsone_CRM/Companies_Products.php on line 210
+[12-Aug-2020 12:15:37 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/marsones/public_html/demo/Marsone_CRM/Companies_Products.php on line 210
+[12-Aug-2020 12:17:17 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/marsones/public_html/demo/Marsone_CRM/Companies_Products.php on line 210
+[12-Aug-2020 12:17:24 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/marsones/public_html/demo/Marsone_CRM/Companies_Products.php on line 210
+[13-Aug-2020 04:49:13 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/marsones/public_html/demo/Marsone_CRM/Companies_Products.php on line 210
+[13-Aug-2020 04:49:23 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/marsones/public_html/demo/Marsone_CRM/Companies_Products.php on line 210
+[16-Aug-2020 05:10:36 Etc/GMT] PHP Warning:  implode() expects at most 2 parameters, 3 given in /home/marsones/public_html/demo/Marsone_CRM/Sms.php on line 21
+[16-Aug-2020 05:16:56 Etc/GMT] PHP Warning:  implode() expects at most 2 parameters, 3 given in /home/marsones/public_html/demo/Marsone_CRM/Sms.php on line 21
+[16-Aug-2020 05:26:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/marsones/public_html/demo/Marsone_CRM/Sms.php on line 21
+[16-Aug-2020 05:29:53 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/marsones/public_html/demo/Marsone_CRM/Sms.php on line 26
+[28-Nov-2020 09:06:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'marsones_kartik'@'localhost' (using password: YES) in /home4/marsonein/public_html/Marsone_CRM/DBConfig/database.php on line 7
+[28-Nov-2020 09:25:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'marsones_kartik'@'localhost' (using password: YES) in /home4/marsonein/public_html/Marsone_CRM/DBConfig/database.php on line 7
+[28-Nov-2020 09:25:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'marsones_kartik'@'localhost' (using password: YES) in /home4/marsonein/public_html/Marsone_CRM/DBConfig/database.php on line 7
+[28-Nov-2020 09:28:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'marsonei_crm'@'localhost' to database 'marsonei_crmDB' in /home4/marsonein/public_html/Marsone_CRM/DBConfig/database.php on line 7
+[28-Nov-2020 09:31:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'marsonei_crm'@'localhost' to database 'marsonei_crmDB' in /home4/marsonein/public_html/Marsone_CRM/DBConfig/database.php on line 7
+[28-Nov-2020 09:31:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'marsonei_crm'@'localhost' to database 'marsonei_crmDB' in /home4/marsonein/public_html/Marsone_CRM/DBConfig/database.php on line 7
+[28-Nov-2020 09:42:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'marsonei_crm'@'localhost' to database 'marsonei_crmDB' in /home4/marsonein/public_html/Marsone_CRM/DBConfig/database.php on line 7
+[15-Jun-2021 08:21:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 44
+[15-Jun-2021 08:22:15 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 44
+[15-Jun-2021 08:22:35 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 44
+[15-Jun-2021 08:23:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 3
+[15-Jun-2021 08:24:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 3
+[15-Jun-2021 08:24:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 3
+[15-Jun-2021 08:26:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 3
+[15-Jun-2021 08:27:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 3
+[15-Jun-2021 08:28:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 3
+[15-Jun-2021 08:29:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 3
+[15-Jun-2021 08:30:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 3
+[15-Jun-2021 10:50:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 110
+[15-Jun-2021 10:50:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 111
+[15-Jun-2021 10:50:56 UTC] PHP Warning:  basename() expects parameter 1 to be string, resource given in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 112
+[15-Jun-2021 10:50:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 112
+[15-Jun-2021 10:50:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 113
+[15-Jun-2021 10:50:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 114
+[15-Jun-2021 10:50:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 115
+[15-Jun-2021 10:50:56 UTC] PHP Warning:  filesize() expects parameter 1 to be a valid path, resource given in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 116
+[15-Jun-2021 10:50:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 116
+[15-Jun-2021 10:50:56 UTC] PHP Warning:  readfile() expects parameter 1 to be a valid path, resource given in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 117
+[15-Jun-2021 10:53:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 110
+[15-Jun-2021 10:53:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 111
+[15-Jun-2021 10:53:37 UTC] PHP Warning:  basename() expects parameter 1 to be string, resource given in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 112
+[15-Jun-2021 10:53:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 112
+[15-Jun-2021 10:53:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 113
+[15-Jun-2021 10:53:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 114
+[15-Jun-2021 10:53:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 115
+[15-Jun-2021 10:53:37 UTC] PHP Warning:  filesize() expects parameter 1 to be a valid path, resource given in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 116
+[15-Jun-2021 10:53:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 116
+[15-Jun-2021 10:53:37 UTC] PHP Warning:  readfile() expects parameter 1 to be a valid path, resource given in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 117
+[15-Jun-2021 11:00:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 110
+[15-Jun-2021 11:00:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 111
+[15-Jun-2021 11:00:54 UTC] PHP Warning:  basename() expects parameter 1 to be string, resource given in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 112
+[15-Jun-2021 11:00:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 112
+[15-Jun-2021 11:00:54 UTC] PHP Warning:  readfile() expects parameter 1 to be a valid path, resource given in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 118
+[17-Jun-2021 11:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:126
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(148): db_backup->connect('localhost', 'root', '', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 126
+[17-Jun-2021 11:59:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:126
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(148): db_backup->connect('localhost', 'root', '', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 126
+[17-Jun-2021 12:05:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:126
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(148): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 126
+[17-Jun-2021 12:09:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:126
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(148): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 126
+[17-Jun-2021 12:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:126
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(148): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 126
+[17-Jun-2021 12:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:126
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(148): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 126
+[17-Jun-2021 12:16:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:126
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(148): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 126
+[17-Jun-2021 12:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:126
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(45): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 126
+[17-Jun-2021 12:23:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:126
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(45): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 126
+[17-Jun-2021 12:24:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:126
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(45): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 126
+[17-Jun-2021 13:05:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:126
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(45): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 126
+[17-Jun-2021 13:06:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:126
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(45): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 126
+[17-Jun-2021 13:14:16 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 127
+[17-Jun-2021 13:14:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:129
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(45): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 129
+[17-Jun-2021 13:14:20 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 127
+[17-Jun-2021 13:14:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:129
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(45): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 129
+[17-Jun-2021 13:18:31 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 127
+[17-Jun-2021 13:18:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:129
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(45): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 129
+[17-Jun-2021 13:18:37 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 127
+[17-Jun-2021 13:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:129
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(45): db_backup->connect('localhost:3306', 'marsonei_crm', 'r^P*i!;xxk3.', 'marsonei_crmDB')
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 129
+[17-Jun-2021 13:21:22 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 127
+[17-Jun-2021 13:21:22 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 129
+[17-Jun-2021 13:21:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:21:22 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:21:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:21:22 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:21:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:21:22 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:23:54 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 127
+[17-Jun-2021 13:23:54 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 129
+[17-Jun-2021 13:23:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:23:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:23:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:23:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:23:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:23:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:25:33 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 127
+[17-Jun-2021 13:25:33 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 129
+[17-Jun-2021 13:25:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:25:33 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:25:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:25:33 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:25:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:25:33 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:25:53 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 127
+[17-Jun-2021 13:25:53 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 129
+[17-Jun-2021 13:25:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:25:53 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:25:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:25:53 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:25:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:25:53 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:25:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[17-Jun-2021 13:25:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[17-Jun-2021 13:26:34 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 127
+[17-Jun-2021 13:26:34 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 129
+[17-Jun-2021 13:26:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:26:34 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:26:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:26:34 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:26:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:26:34 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:26:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[17-Jun-2021 13:26:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[17-Jun-2021 13:44:01 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 127
+[17-Jun-2021 13:44:01 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 129
+[17-Jun-2021 13:44:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:44:01 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:44:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:44:01 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:44:30 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 127
+[17-Jun-2021 13:44:30 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 129
+[17-Jun-2021 13:44:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:44:30 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:44:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:44:30 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:44:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:44:30 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:51:51 UTC] PHP Fatal error:  Cannot use [] for reading in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 143
+[17-Jun-2021 13:52:19 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 127
+[17-Jun-2021 13:52:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 129
+[17-Jun-2021 13:52:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:52:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:52:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:52:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[17-Jun-2021 13:52:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[17-Jun-2021 13:52:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[18-Jun-2021 03:51:17 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 127
+[18-Jun-2021 03:51:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 129
+[18-Jun-2021 03:51:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[18-Jun-2021 03:51:17 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[18-Jun-2021 03:51:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[18-Jun-2021 03:51:17 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[18-Jun-2021 03:51:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 139
+[18-Jun-2021 03:51:17 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[18-Jun-2021 03:58:04 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 51
+[18-Jun-2021 03:58:04 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 53
+[18-Jun-2021 03:59:12 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 51
+[18-Jun-2021 03:59:12 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 53
+[18-Jun-2021 04:04:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function db_backup::connect(), 0 passed in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 46 and exactly 4 expected in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:133
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(46): db_backup->connect()
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 133
+[18-Jun-2021 04:05:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:05:04 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:05:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:05:04 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:05:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:05:04 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:05:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:05:48 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:05:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:05:48 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:05:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:05:48 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:05:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:05:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:05:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:05:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:05:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:05:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:35:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:35:10 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:35:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:35:10 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:35:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 04:35:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 04:37:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:37:14 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:37:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:37:14 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:37:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 04:37:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 04:37:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:37:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 04:37:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 04:37:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:04:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:04:59 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:04:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:04:59 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:05:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:05:12 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:05:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:05:12 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:24:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:24:16 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:24:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:24:16 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:24:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 181
+[18-Jun-2021 05:24:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php on line 182
+[18-Jun-2021 05:28:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:28:28 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:28:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:28:28 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:28:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 05:28:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 05:28:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:28:35 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:28:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:28:35 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:28:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 05:28:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 05:32:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:32:18 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:32:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:32:18 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:32:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:32:18 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:32:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 05:32:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 05:35:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:35:49 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:35:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:35:49 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:35:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 156
+[18-Jun-2021 05:35:49 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 158
+[18-Jun-2021 05:35:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 05:35:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 05:48:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:141
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(46): db_backup->connect()
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[18-Jun-2021 05:51:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:141
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(46): db_backup->connect()
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[18-Jun-2021 05:51:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php:141
+Stack trace:
+#0 /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php(46): db_backup->connect()
+#1 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 141
+[18-Jun-2021 05:56:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 157
+[18-Jun-2021 05:56:11 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 159
+[18-Jun-2021 05:56:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 157
+[18-Jun-2021 05:56:11 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 159
+[18-Jun-2021 05:56:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 157
+[18-Jun-2021 05:56:11 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 159
+[18-Jun-2021 05:57:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 157
+[18-Jun-2021 05:57:12 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 159
+[18-Jun-2021 05:58:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 157
+[18-Jun-2021 05:58:09 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 159
+[18-Jun-2021 05:58:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 157
+[18-Jun-2021 05:58:09 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 159
+[18-Jun-2021 05:58:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 157
+[18-Jun-2021 05:58:09 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 159
+[18-Jun-2021 05:59:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 157
+[18-Jun-2021 05:59:30 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 159
+[18-Jun-2021 05:59:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 157
+[18-Jun-2021 05:59:30 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 159
+[18-Jun-2021 05:59:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 157
+[18-Jun-2021 05:59:30 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 159
+[18-Jun-2021 06:01:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 157
+[18-Jun-2021 06:01:35 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 159
+[18-Jun-2021 06:01:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 157
+[18-Jun-2021 06:01:35 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 159
+[18-Jun-2021 06:01:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 157
+[18-Jun-2021 06:01:35 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 159
+[18-Jun-2021 06:01:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 06:01:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 06:07:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 06:07:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 06:10:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 06:10:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 06:13:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 06:13:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 06:15:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 06:15:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 06:15:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 06:15:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 06:19:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 06:19:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 06:23:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 06:23:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 06:27:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 06:27:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 06:27:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 110
+[18-Jun-2021 06:27:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 111
+[18-Jun-2021 06:27:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 112
+[18-Jun-2021 06:27:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 113
+[18-Jun-2021 06:27:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 114
+[18-Jun-2021 06:27:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 115
+[18-Jun-2021 06:28:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 110
+[18-Jun-2021 06:28:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 111
+[18-Jun-2021 06:28:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 112
+[18-Jun-2021 06:28:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 113
+[18-Jun-2021 06:28:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 114
+[18-Jun-2021 06:28:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 115
+[18-Jun-2021 06:30:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 110
+[18-Jun-2021 06:30:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 111
+[18-Jun-2021 06:30:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 112
+[18-Jun-2021 06:30:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 113
+[18-Jun-2021 06:30:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 114
+[18-Jun-2021 06:30:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 115
+[18-Jun-2021 06:35:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 06:35:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 06:41:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 06:41:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 06:43:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 06:43:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 07:13:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 07:13:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 07:18:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 07:18:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 07:18:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 07:18:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 07:24:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 07:24:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 07:34:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 07:34:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/DataBackUp.php:5) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 07:39:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 07:39:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 07:39:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 07:39:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 07:42:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 07:42:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 07:46:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 07:46:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 07:52:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 07:52:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 07:52:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 07:52:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 13:36:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 13:36:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 13:36:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 13:36:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[18-Jun-2021 13:36:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[18-Jun-2021 13:36:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[21-Jun-2021 07:25:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 07:27:15 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 07:28:59 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 09:16:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 09:24:31 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 09:25:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 09:26:12 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 09:34:07 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 09:35:08 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 09:50:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function smtpmailer() in /home4/marsonein/public_html/Marsone_CRM/Mail_Inbox.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/Mail_Inbox.php on line 17
+[21-Jun-2021 10:04:45 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:05:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:05:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function smtpmailer() in /home4/marsonein/public_html/Marsone_CRM/Mail_Inbox.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/Mail_Inbox.php on line 19
+[21-Jun-2021 10:07:28 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:07:53 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:07:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function smtpmailer() in /home4/marsonein/public_html/Marsone_CRM/Mail_Inbox.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/Mail_Inbox.php on line 19
+[21-Jun-2021 10:09:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/marsonein/public_html/Marsone_CRM/Mail_Inbox.php on line 172
+[21-Jun-2021 10:10:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:12:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:14:53 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:15:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:15:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function smtpmailer() in /home4/marsonein/public_html/Marsone_CRM/Mail_Inbox.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/Mail_Inbox.php on line 19
+[21-Jun-2021 10:17:16 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:17:59 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:17:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function smtpmailer() in /home4/marsonein/public_html/Marsone_CRM/Mail_Inbox.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/marsonein/public_html/Marsone_CRM/Mail_Inbox.php on line 19
+[21-Jun-2021 10:18:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:21:29 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:23:57 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:25:14 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:28:26 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:33:44 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:36:15 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:42:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:54:48 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:58:01 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 10:59:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 11:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 11:01:01 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 11:02:01 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 11:03:01 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 11:04:01 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 12:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jun-2021 14:05:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[21-Jun-2021 14:05:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[21-Jun-2021 14:08:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[21-Jun-2021 14:08:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[22-Jun-2021 00:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[22-Jun-2021 12:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[23-Jun-2021 00:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[23-Jun-2021 12:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[23-Jun-2021 17:27:06 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[24-Jun-2021 00:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[24-Jun-2021 12:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[25-Jun-2021 00:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[25-Jun-2021 12:00:01 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[26-Jun-2021 00:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[26-Jun-2021 12:00:01 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[27-Jun-2021 00:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[27-Jun-2021 12:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[28-Jun-2021 00:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[28-Jun-2021 12:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[29-Jun-2021 00:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[29-Jun-2021 12:00:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[29-Jun-2021 14:16:13 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/marsonein/public_html/Marsone_CRM/PHPMailer/PHPMailerAutoload.php on line 45
+[03-Jul-2021 07:08:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[03-Jul-2021 07:08:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[19-Jul-2021 06:03:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 103
+[19-Jul-2021 06:03:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/marsonein/public_html/Marsone_CRM/header/header.php:8) in /home4/marsonein/public_html/Marsone_CRM/db_backup_library.php on line 104
+[19-Jul-2021 11:24:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home4/marsonein/public_html/Marsone_CRM/DBConfig/database.php on line 7
+[19-Jul-2021 11:28:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home4/marsonein/public_html/Marsone_CRM/DBConfig/database.php on line 7
+[19-Jul-2021 11:29:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home4/marsonein/public_html/Marsone_CRM/DBConfig/database.php on line 7
+[19-Jul-2021 11:29:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home4/marsonein/public_html/Marsone_CRM/DBConfig/database.php on line 7
+[19-Jul-2021 12:42:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home4/marsonein/public_html/Marsone_CRM/DBConfig/database.php on line 7
+[21-Jul-2021 05:38:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home4/marsonein/public_html/Marsone_CRM/DBConfig/database.php on line 7
